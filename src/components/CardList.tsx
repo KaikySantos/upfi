@@ -1,4 +1,3 @@
-/* eslint-disable react/jsx-no-bind */
 import { SimpleGrid, useDisclosure } from '@chakra-ui/react';
 import { useState } from 'react';
 import { Card } from './Card';
